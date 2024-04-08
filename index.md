@@ -33,10 +33,15 @@ System.out.println("Hello, World")
 ![RamenImage](https://media.istockphoto.com/id/1365977387/photo/ramen-with-steaming-sizzle.jpg?s=612x612&w=0&k=20&c=8-Dij3YocgfVa2kj37msXT_iqzIgbqq0Ta3c1G4_-A0=)
 
 ### Things I want to do: 
+
 - [ ] Graduate 
+
 - [ ] Get a job 
+
 - [ ] Get a *sub-10* average on 3x3  
+
 - [x] ~~Build my own keyboard~~
+
 - [ ] Build my own PC
 
 [Go back to top](#my-user-page)
